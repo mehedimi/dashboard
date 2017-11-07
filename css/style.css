@@ -1,5 +1,5 @@
-*{
-	font-family: calibri
+html,body{
+	font-family: "Trebuchet MS", "Helvetica Neue", Helvetica, Tahoma, sans-serif
 }
 .clearfix:after{
 	content: '';
@@ -10,7 +10,7 @@
 	cursor: pointer;
 }
 .modal-body{
-	padding: 24px 32px
+	padding: 15px
 }
 .sidebar-root{
 	box-shadow: 0 0 10px rgba(0,0,0,0.1);
